@@ -23,7 +23,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [Platesmania](https://platesmania.com/) | international database containing nearly 1mil photos of license plates and their associated vehicles |
 | [License Plate Data](https://theinpaint.com/) | finds vehicle information from license plate number and state |
 | [Numberogram](https://play.google.com/store/apps/details?id=ru.drom.numbers&referrer=utm_source%3Dwebnomerogramfooter%26utm_medium%3Dfree%26utm_campaign%3Dbanner) | searches Russian license plate numbers |
-| [License Plate Map: Americas](https://www.reddit.com/r/MapPorn/comments/dc9s85/license_plates_of_the_americas/https://www.reddit.com/r/MapPorn/comments/dc9s85/license_plates_of_the_americas/) | 2019 overhead map of license plates by state/country/province |
+| [License Plate Map: Americas](https://www.reddit.com/r/MapPorn/comments/dc9s85/license_plates_of_the_americas/) | 2019 overhead map of license plates by state/country/province |
 | [License Plate Map: Europe](https://www.reddit.com/r/MapPorn/comments/d51jr0/car_plates_in_europe/ ) | 2019 overhead map of license plates in europe by country/province |
 | [License Plate Map: Asia](https://www.reddit.com/r/MapPorn/comments/d4ys24/license_plates_of_asia_map/) | 2019 overhead map of license plates in Asia |
 | [AutoTraveller](https://autotraveler.ru/en/spravka/vehicle-registration-codes-in-the-world.html#.Y3R6BnbMJPY) | description/images of license plates and registration display regulations based on country |
