@@ -43,6 +43,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools specifi
 
 ### Other Useful Tools
 | Link | Description |
+| --- | --- |
 | [Cipher's OSINT Map](https://cipher387.github.io/osintmap/) | Cipher's interactive map of useful online public/registry services by location and other great tools |
 | [iHunt](https://nitinpandey.in/ihunt/) | OSINT Framework |
 
