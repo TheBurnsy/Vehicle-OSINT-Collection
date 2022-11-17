@@ -29,6 +29,8 @@ A comprehensive list of websites, add-ons, repositories, and other tools specifi
 | [NCSL](https://www.ncsl.org/research/transportation/license-plate-information.aspx) | summary of US license plate display regulations by state |
 
 ### Drivers License Tools
+| Link | Description |
+| --- | --- |
 | [DL # Calculator](http://www.highprogrammer.com/cgi-bin/uniqueid/dl_fl) | calculates DL numbers in 9 states based on first/MI/last, gender, and DOB based on the states method of DL # calculation. |
 | [Enterprise](https://www.enterprise.com/en/reserve/receipts.html?icid=header.reservations.car.rental-_-receipt-_-ENUS.NULL) | finds reciepts from last name/DL number combo |
 | [Hertz](https://www.hertz.com/rentacar/receipts/request-receipts.do) | finds reciepts using last name/DL number combo |
