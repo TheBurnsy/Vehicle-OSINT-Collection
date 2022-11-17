@@ -49,6 +49,11 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | --- | --- |
 | [Show My Street](https://showmystreet.com/) | simplifies google street view and maps with one straightforward interface |
 | [Mapillary](https://www.mapillary.com/app/) | overview map of street panoramas around the world |
+| [WebcamTaxi](https://www.webcamtaxi.com/en/webcams.html) | livestreams web/security cameras around the world, including interactive map of camera locations |
+| [EarthCam](https://www.earthcam.com/) | live webcam network with cameras around the world |
+| [WorldCam.eu](https://worldcam.eu/) | live webcam network with cameras around the world |
+| [Magonolialinkworld](https://www.mangolinkworld.com/) | live webcam network with cameras around the world |
+| [WorldCams](https://worldcams.tv/) | live webcam network with cameras around the world |
 
 ### Other Useful Tools
 | Link | Description |
