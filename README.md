@@ -29,6 +29,9 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [AutoTraveller](https://autotraveler.ru/en/spravka/vehicle-registration-codes-in-the-world.html#.Y3R6BnbMJPY) | description/images of license plates and registration display regulations based on country |
 | [Venicle Search](https://cipher387.github.io/venicle_number_search_toolbox/) | searches information related to venicle numbers in 14 different countries |
 | [NCSL](https://www.ncsl.org/research/transportation/license-plate-information.aspx) | summary of US license plate display regulations by state |
+| [Italy Insurance Control](https://www.ilportaledellautomobilista.it/web/portale-automobilista/verifica-copertura-rc) | controls insurance validity of vehicle with italian plate number, comprehensive of insurance authority and insurance end date
+| [Italy Emission Class](https://www.ilportaledellautomobilista.it/web/portale-automobilista/verifica-classe-ambientale-veicolo) | emission class of vehicle with italian plate number
+| [Italy Maintenance Control](https://www.ilportaledellautomobilista.it/web/portale-automobilista/verifica-ultima-revisione) | gives information about last government-forced check of car (4 years for new cars, after every 2 years), including km detected at time of check
 
 ### VIN Tools
 | Link | Description |
@@ -36,6 +39,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [FaxVin](https://www.faxvin.com/) | finds information related to VIN number with VIN check and VIN decoder |
 | [VehicleHistory.com VIN Search](https://www.vehiclehistory.com/) | finds information and history related to VIN number |
 | [Vindecoderz](https://www.vindecoderz.com/) | free VIN decoder |
+| [Bimmwer.work](https://bimmer.work/) | bmw specific VIN decoder with full optional list
 
 ### Drivers License Tools
 | Link | Description |
