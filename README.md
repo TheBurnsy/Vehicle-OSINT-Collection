@@ -13,6 +13,8 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [PimEyes](https://theinpaint.com/) | facial recognition AI that is terrifyingly accurate, compares target to images all over the web |
 | [CarLogos](https://www.carlogos.org/car-brands-a-z/) | database of all car manufacturers worldwide and their logos |
 | [PhotOSINT](https://chrome.google.com/webstore/detail/photosint/gonhdjmkgfkokhkflfhkbiagbmoolhcd/related?hl=nl) | scans images on webpage for exif data |
+| [Calculator IPVM](https://calculator.ipvm.com/) | shows the view of how a set-up camera would like using google map data |
+| [Commercial Truck Trader](https://www.commercialtrucktrader.com/) | database of all commercial trucks in US |
 
 ### License Plate Tools
 | Link | Description |
@@ -45,6 +47,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [STKonline](https://stkonline.sk/spz) | Slovakia plate search tool |
 | [DigitalService.dk](https://digitalservicebog.dk/) | plate search for Denmark, Swedan, and Norway, including a few other countries |
 | [MTSBU](https://policy-web.mtsbu.ua/Search/Main/en) | Ukraine license plate search tool (use at own risk, site is safe as of 11//19/2022 but conflict may affect this) |
+| [Wisconsin License Plate Search](https://trust.dot.state.wi.us/pinq/PinqServlet?whoami=pinqp1) | Offical Wisconsin search tool for license plates |
 
 ### VIN Tools
 | Link | Description |
@@ -53,6 +56,22 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [VehicleHistory.com VIN Search](https://www.vehiclehistory.com/) | finds information and history related to VIN number |
 | [Vindecoderz](https://www.vindecoderz.com/) | free VIN decoder |
 | [Bimmwer.work](https://bimmer.work/) | bmw specific VIN decoder with full optional list
+| [Ford Vin Search](https://www.fordvinlookup.com/)| Ford VIN decoder |
+| [Chevrolet Vin Search](https://chevroletforum.com/forum/vindecoder.php)| Chevy VIN decoder |
+| [Hyundai Vin Search](https://www.hyundaiforum.com/forum/vindecoder.php)| Hyuandai VIN decoder |
+| [Nissan Vin Search](https://www.nissanusa.com/recalls-vin.html)| Nissan VIN decoder |
+| [Cadillac Vin Search](https://www.cadillacforum.com/forum/vindecoder.php)| Caddillac VIN decoder |
+| [Dodge Vin Search](https://dodgeforum.com/forum/vindecoder.php)| Dodge VIN decode |
+| [Toyota Vin Search](https://www.toyota.com/owners/my-vehicle/vehicle-specification.html)| Toyota VIN decoder |
+| [Audi Vin Search](https://www.audiworld.com/forums/vindecoder.php)| Audi VIN decoder |
+| [Honda Vin Search](https://estore.honda.com/honda/parts/use-your-vehicle-vin.asp)| Honda VIN decoder |
+| [Yamaha Vin Search](https://vinpit.com/vin-decoder/yamaha)| Yamaha VIN decoder |
+| [Kawasaki Vin Search](https://vinpit.com/vin-decoder/kawasaki) | Kawasaki VIN decoder |
+| [Scion Vin Search](https://www.scionlife.com/forums/vindecoder.php) | Scion VIN decoder |
+| [National Highway Safety Administration](https://www.nhtsa.gov/vin-decoder) | NHTSA VIN decoder |
+| [GM Vin Search](https://www.gmforum.com/vindecoder.php) | General Motors VIN decoder |
+| [Oregon Semi-Truck Search](https://www.oregontruckingonline.com/cf/MCAD/pubMetaEntry/carrierInfoByVeh/) | Oregon semi-truck database |
+| [BigRig](https://bigrigvin.com/) | Big-rig (Semi-trucks and large commercial vehicles) vin decoder/search |
 
 ### Drivers License Tools
 | Link | Description |
@@ -71,6 +90,11 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [WorldCam.eu](https://worldcam.eu/) | live webcam network with cameras around the world |
 | [Magonolialinkworld](https://www.mangolinkworld.com/) | live webcam network with cameras around the world |
 | [WorldCams](https://worldcams.tv/) | live webcam network with cameras around the world |
+| [Google Map Scraper](https://console.apify.com/actors/nwua9Gu5YrADL7ZDj) | scrapes addresses, phone numbers, etc from google map data |
+| [Cipher's Public Transport Maps](https://cipher387.github.io/public_transport_maps/) | 20 public transport maps around the world |
+| [Open Aerial Map](https://map.openaerialmap.org/#/-18.45703125,18.47960905583197,3?_k=3dgcbd) | overhead aerial view of locations around the world |
+| [ArcGis](https://www.arcgis.com/apps/View/index.html?appid=b3a7a2930b974773ba28968710fec0d3) | map of semi-truck routes in US |
+
 
 ### Other Useful Tools
 | Link | Description |
@@ -87,3 +111,4 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 - VINCHECKINFO's Reddit [thread](https://www.reddit.com/r/LICENSEPLATES/comments/bm3djr/dmv_license_plate_lookup/) on states with public registry tools
 - For additional tools, [cipher387](https://github.com/cipher387) has an incredible collection of 1000+ tools [here](https://github.com/cipher387/osint_stuff_tool_collection)
 - Some map services ([Bing](https://www.bing.com/maps/), [Google](https://www.google.com/maps)) and [Google Earth](https://earth.google.com/) offer timeline revert features to view older streetview versions
+- CyberopsIntel's [article](https://www.cyberoneintel.com/post/back-to-the-basics-with-asset-tracing) on semi-truck OSINT
