@@ -19,6 +19,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | --- | --- |
 | [FindByPlate](https://findbyplate.com/) | search license plate information by number and state (US) |
 | [VehicleHistory.com Plate Search](https://www.vehiclehistory.com/license-plate-search) | search license plate information by number and state (US) |
+| [FaxVin (License Plate Search)](https://www.faxvin.com/license-plate-lookup) | search license plate information by number and state (US) |
 | [World License Plates](http://www.worldlicenseplates.com/) | database of license plate images by country/province |
 | [Platesmania](https://platesmania.com/) | international database containing nearly 1mil photos of license plates and their associated vehicles |
 | [License Plate Data](https://theinpaint.com/) | finds vehicle information from license plate number and state |
@@ -32,11 +33,14 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [Italy Insurance Control](https://www.ilportaledellautomobilista.it/web/portale-automobilista/verifica-copertura-rc) | controls insurance validity of vehicle with italian plate number, comprehensive of insurance authority and insurance end date
 | [Italy Emission Class](https://www.ilportaledellautomobilista.it/web/portale-automobilista/verifica-classe-ambientale-veicolo) | emission class of vehicle with italian plate number
 | [Italy Maintenance Control](https://www.ilportaledellautomobilista.it/web/portale-automobilista/verifica-ultima-revisione) | gives information about last government-forced check of car (4 years for new cars, after every 2 years), including km detected at time of check
+| [Finnik](https://finnik.nl/en) | searches for information related to license plates in various European countries |
+| [Netherlands License Plate Dataset](https://opendata.rdw.nl/Voertuigen/Open-Data-RDW-Gekentekende_voertuigen/m9d7-ebf2) | license plate dataset of 15 million Netherland license plates, including a mind-boggling amount of information related to them |
+| [Intel Technique's Search Tool](https://inteltechniques.com/tools/Vehicle.html) | searches for information related to license plates in US/Canada. This is part of an OSINT framework that also offers VIN searches and other tools |
 
 ### VIN Tools
 | Link | Description |
 | --- | --- |
-| [FaxVin](https://www.faxvin.com/) | finds information related to VIN number with VIN check and VIN decoder |
+| [FaxVin (Vin Search)](https://www.faxvin.com/) | finds information related to VIN number with VIN check and VIN decoder |
 | [VehicleHistory.com VIN Search](https://www.vehiclehistory.com/) | finds information and history related to VIN number |
 | [Vindecoderz](https://www.vindecoderz.com/) | free VIN decoder |
 | [Bimmwer.work](https://bimmer.work/) | bmw specific VIN decoder with full optional list
@@ -65,6 +69,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [Cipher's OSINT Map](https://cipher387.github.io/osintmap/) | Cipher's interactive map of useful online public/registry services by location and other great tools |
 | [iHunt](https://nitinpandey.in/ihunt/) | OSINT Framework |
 | [Check License Plates](https://www.icloud.com/shortcuts/1e500ea210244b62a35bd28912797a86) | iphone/ipad shortcut for searching plates based on country, state, or region |
+| [CarInfo](https://apps.apple.com/in/app/car-info-vehicle-registration/id1146173741) | India license plate search for macOS/iOS |
 
 ### Additional Resources/Notes
 - Local police impound registries (county, state, or province)
