@@ -36,6 +36,15 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [Finnik](https://finnik.nl/en) | searches for information related to license plates in various European countries |
 | [Netherlands License Plate Dataset](https://opendata.rdw.nl/Voertuigen/Open-Data-RDW-Gekentekende_voertuigen/m9d7-ebf2) | license plate dataset of 15 million Netherland license plates, including a mind-boggling amount of information related to them |
 | [Intel Technique's Search Tool](https://inteltechniques.com/tools/Vehicle.html) | searches for information related to license plates in US/Canada. This is part of an OSINT framework that also offers VIN searches and other tools |
+| [Vic Roads](https://www.vicroads.vic.gov.au/registration/buy-sell-or-transfer-a-vehicle/check-vehicle-registration/vehicle-registration-enquiry) | Victoria vehicle registry (AU)|
+| [SivAuto.fr](https://siv-auto.fr/index.php) | France license plates search tool |
+| [Queensland.gov](https://www.qld.gov.au/transport/terms-check-rego) | Queensland license plate registry |
+| [Samgongustafa](https://www.samgongustofa.is/umferd/okutaeki/okutaekjaskra/uppfletting?vq) | Iceland plate search registry |
+| [Autocode](https://avtocod.ru/) | Russian number plate search tool |
+| [Eteenindus](https://eteenindus.mnt.ee/public/soidukTaustakontroll.jsf) | Estonia plate registry |
+| [STKonline](https://stkonline.sk/spz) | Slovakia plate search tool |
+| [DigitalService.dk](https://digitalservicebog.dk/) | plate search for Denmark, Swedan, and Norway, including a few other countries |
+| [MTSBU](https://policy-web.mtsbu.ua/Search/Main/en) | Ukraine license plate search tool (use at own risk, site is safe as of 11//19/2022 but conflict may affect this) |
 
 ### VIN Tools
 | Link | Description |
