@@ -10,7 +10,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [Media.io](https://letsenhance.io/) | removes bright/large objects from images |
 | [Replicate](https://replicate.com/tencentarc/gfpgan) | restores blurry/hazy/damaged photos of faces (potentially other images) |
 | [TheinPaint](https://theinpaint.com/) | removes objects from images |
-| [PimEyes](https://theinpaint.com/) | facial recognition AI that is terrifyingly accurate, compares target to images all over the web |
+| [PimEyes](https://pimeyes.com/en) | facial recognition AI that is terrifyingly accurate, compares target to images all over the web |
 | [CarLogos](https://www.carlogos.org/car-brands-a-z/) | database of all car manufacturers worldwide and their logos |
 | [PhotOSINT](https://chrome.google.com/webstore/detail/photosint/gonhdjmkgfkokhkflfhkbiagbmoolhcd/related?hl=nl) | scans images on webpage for exif data |
 | [Calculator IPVM](https://calculator.ipvm.com/) | shows the view of how a set-up camera would like using google map data |
