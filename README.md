@@ -15,6 +15,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [PhotOSINT](https://chrome.google.com/webstore/detail/photosint/gonhdjmkgfkokhkflfhkbiagbmoolhcd/related?hl=nl) | scans images on webpage for exif data |
 | [Calculator IPVM](https://calculator.ipvm.com/) | shows the view of how a set-up camera would like using google map data |
 | [Commercial Truck Trader](https://www.commercialtrucktrader.com/) | database of all commercial trucks in US |
+| [Plate Recognition AI](https://github.com/winter2897/Real-time-Auto-License-Plate-Recognition-with-Jetson-Nano/blob/main/doc/dataset.md) | recognizes license plates within view of camera |
 
 ### License Plate Tools
 | Link | Description |
@@ -48,6 +49,21 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [DigitalService.dk](https://digitalservicebog.dk/) | plate search for Denmark, Swedan, and Norway, including a few other countries |
 | [MTSBU](https://policy-web.mtsbu.ua/Search/Main/en) | Ukraine license plate search tool (use at own risk, site is safe as of 11//19/2022 but conflict may affect this) |
 | [Wisconsin License Plate Search](https://trust.dot.state.wi.us/pinq/PinqServlet?whoami=pinqp1) | Offical Wisconsin search tool for license plates |
+| [First Check](https://www.firstcheck.co.za/) | South Africa number plate search tool |
+| [Federal Road Safety Corps](https://nvis.frsc.gov.ng/VehicleManagement/VerifyPlateNo) | Nigeria license plate search tool |
+| [Doubango](https://www.doubango.org/webapps/alpr-korea/) | South Korea plate recognition tool |
+| [Itarga](https://apps.apple.com/it/app/itarga-verify-license-plate/id1222570860?l=en) | Italy plate search tool for iOS |
+| [Costco](https://tires.costco.com/) | shows make/model of vehicle from VIN/plate |
+| [Plate Recognizer](https://platerecognizer.com/) | license plate decoder |
+| [AutoCheck](https://www.autocheck.com/vehiclehistory/autocheck-score) | offical Experian plate/vin search tool, scores results based on number of owners, mileage, age, and other info |
+| [egov.kz](https://egov.kz/cms/ru/articles/vehicle/grnz) | kazakhstan plate regulations and information |
+| [Kaggle](https://www.kaggle.com/datasets/elmehditaf96/moroccan-vehicle-registration-plates) | Morocco license plate dataset |
+| [HowsMyDrivingNY](https://howsmydrivingny.nyc/k36e7jzm) | violation search tool for NYC |
+| [Colorado.gov](https://secure.colorado.gov/apps/dps/mvvs/public/entry.jsf) | Colorado vehicle verification system |
+| [DC.gov](https://prodpci.etimspayments.com/pbw/include/dc_parking/input.jsp?ticketType=P) | Washington DC violation verification |
+| [ct.gov](https://dmvcivls-wselfservice.ct.gov/Registration/VerifyRegistration) | Connecticut vehicle verification |
+| [Honolulu Motor Vehicle Inquiry](https://mvinquiry.hnl.info/title) | Hawaii vehicle verification |
+| [Idaho.gov](https://www.accessidaho.org/itd/driver/registration/status) | Idaho vehicle verification |
 
 ### VIN Tools
 | Link | Description |
@@ -94,7 +110,9 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [Cipher's Public Transport Maps](https://cipher387.github.io/public_transport_maps/) | 20 public transport maps around the world |
 | [Open Aerial Map](https://map.openaerialmap.org/#/-18.45703125,18.47960905583197,3?_k=3dgcbd) | overhead aerial view of locations around the world |
 | [ArcGis](https://www.arcgis.com/apps/View/index.html?appid=b3a7a2930b974773ba28968710fec0d3) | map of semi-truck routes in US |
-
+| [Bureau of Transportation](https://www.bts.gov/product/geospatial-application-and-map-gallery) | Bureau of Transportation public maps |
+| [Transport for London](https://tfl.gov.uk/maps/bus) | London bus map |
+| [TransitMap](https://transitmap.net/) | current and past international transit map archives |
 
 ### Other Useful Tools
 | Link | Description |
@@ -103,6 +121,9 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [iHunt](https://nitinpandey.in/ihunt/) | OSINT Framework |
 | [Check License Plates](https://www.icloud.com/shortcuts/1e500ea210244b62a35bd28912797a86) | iphone/ipad shortcut for searching plates based on country, state, or region |
 | [CarInfo](https://apps.apple.com/in/app/car-info-vehicle-registration/id1146173741) | India license plate search for macOS/iOS |
+| [BGToll](https://check.bgtoll.bg/#/) | vignette check for EU, Russia, and Asia and Middle East |
+| [PaperswithCode](https://paperswithcode.com/datasets?q=license+plates&v=lst&o=match&mod=images&page=1) | international license plate datasets with collections of images |
+| [NMVTIS](https://vehiclehistory.bja.ojp.gov/nmvtis_vehiclehistory#w7o24a) | NMVTIS approved data providers |
 
 ### Additional Resources/Notes
 - Local police impound registries (county, state, or province)
