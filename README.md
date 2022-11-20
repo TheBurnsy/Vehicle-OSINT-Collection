@@ -6,8 +6,8 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | --- | --- |
 | [Carnet.ai](https://carnet.ai/) | identifies make/model using image of target vehicle |
 | [Remini](https://letsenhance.io/) | cleans blurry/distorted images |
-| [LetsEnhance](https://www.media.io/app/removeWatermark) | enhances image resolution |
-| [Media.io](https://letsenhance.io/) | removes bright/large objects from images |
+| [LetsEnhance](https://letsenhance.io/) | enhances image resolution |
+| [Media.io](https://www.media.io/app/removeWatermark) | removes bright/large objects from images |
 | [Replicate](https://replicate.com/tencentarc/gfpgan) | restores blurry/hazy/damaged photos of faces (potentially other images) |
 | [TheinPaint](https://theinpaint.com/) | removes objects from images |
 | [PimEyes](https://pimeyes.com/en) | facial recognition AI that is terrifyingly accurate, compares target to images all over the web |
