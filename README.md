@@ -5,7 +5,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | Link | Description |
 | --- | --- |
 | [Carnet.ai](https://carnet.ai/) | identifies make/model using image of target vehicle |
-| [Remini](https://letsenhance.io/) | cleans blurry/distorted images |
+| [Remini](https://app.remini.ai/?gclid=Cj0KCQiAveebBhD_ARIsAFaAvrHn1zzSR0V9Ujw0oFLHtcPaRMbMdybDddYctIYJ04uCIVEXokf4y20aAk00EALw_wcB&v=4f8c5cab-c9e2-4cdf-95b2-29c7e5cd9922) | cleans blurry/distorted images |
 | [LetsEnhance](https://letsenhance.io/) | enhances image resolution |
 | [Media.io](https://www.media.io/app/removeWatermark) | removes bright/large objects from images |
 | [Replicate](https://replicate.com/tencentarc/gfpgan) | restores blurry/hazy/damaged photos of faces (potentially other images) |
