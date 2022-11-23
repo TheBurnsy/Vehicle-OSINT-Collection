@@ -64,6 +64,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [ct.gov](https://dmvcivls-wselfservice.ct.gov/Registration/VerifyRegistration) | Connecticut vehicle verification |
 | [Honolulu Motor Vehicle Inquiry](https://mvinquiry.hnl.info/title) | Hawaii vehicle verification |
 | [Idaho.gov](https://www.accessidaho.org/itd/driver/registration/status) | Idaho vehicle verification |
+| [Oregon Semi-Truck Search](https://www.oregontruckingonline.com/cf/MCAD/pubMetaEntry/carrierInfoByVeh/) | Oregon semi-truck database |
 
 ### VIN Tools
 | Link | Description |
@@ -86,7 +87,6 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [Scion Vin Search](https://www.scionlife.com/forums/vindecoder.php) | Scion VIN decoder |
 | [National Highway Safety Administration](https://www.nhtsa.gov/vin-decoder) | NHTSA VIN decoder |
 | [GM Vin Search](https://www.gmforum.com/vindecoder.php) | General Motors VIN decoder |
-| [Oregon Semi-Truck Search](https://www.oregontruckingonline.com/cf/MCAD/pubMetaEntry/carrierInfoByVeh/) | Oregon semi-truck database |
 | [BigRig](https://bigrigvin.com/) | Big-rig (Semi-trucks and large commercial vehicles) vin decoder/search |
 
 ### Drivers License Tools
