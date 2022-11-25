@@ -65,6 +65,15 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [Honolulu Motor Vehicle Inquiry](https://mvinquiry.hnl.info/title) | Hawaii vehicle verification |
 | [Idaho.gov](https://www.accessidaho.org/itd/driver/registration/status) | Idaho vehicle verification |
 | [Oregon Semi-Truck Search](https://www.oregontruckingonline.com/cf/MCAD/pubMetaEntry/carrierInfoByVeh/) | Oregon semi-truck database |
+| [Mexico.gob](http://www2.repuve.gob.mx:8080/ciudadania/servletconsulta)| Mexico license plate search tool |
+| [Ghana Opera News](https://gh.opera.news/gh/en/auto/c4c2fcb2873ee5c189b5ede517b93edd)| list of Ghana license platea area codes |
+| [MPWT.gov](https://www.mpwt.gov.kh/en/home)| search tool for Cambodian number plates (must use VPN to access) |
+| [Parkingfee.gov](https://parkingfee.pma.gov.taipei/Fee/EnQuery)| shows information if parking fee is associated with number plate(Taipei) |
+| [TTCarLicense](https://apps.apple.com/us/app/ttcarlicense/id1450083022)| Myanmar license plate search app for macOS |
+| [EpicVin.com](https://epicvin.com/license-plate-lookup)| VIN/plate search tool (US) |
+| [AuthorandBookinfo.com](http://www.authorandbookinfo.com/kingkong/where/dz.htm) | list of Algeria license plate area codes |
+| [Cardotcheck.co.uk](https://cardotcheck.co.uk/car-Import-check)| UK import search by registration number/license plate |
+| [Freecarcheck.co.uk](https://www.freecarcheck.co.uk/import-export-checks/)| UK import search by registration number/license plate |
 
 ### VIN Tools
 | Link | Description |
@@ -88,13 +97,11 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [National Highway Safety Administration](https://www.nhtsa.gov/vin-decoder) | NHTSA VIN decoder |
 | [GM Vin Search](https://www.gmforum.com/vindecoder.php) | General Motors VIN decoder |
 | [BigRig](https://bigrigvin.com/) | Big-rig (Semi-trucks and large commercial vehicles) vin decoder/search |
-
-### Drivers License Tools
-| Link | Description |
-| --- | --- |
-| [DL # Calculator](http://www.highprogrammer.com/cgi-bin/uniqueid/dl_fl) | calculates DL numbers in 9 states based on first/MI/last, gender, and DOB based on the states method of DL # calculation. |
-| [Enterprise](https://www.enterprise.com/en/reserve/receipts.html?icid=header.reservations.car.rental-_-receipt-_-ENUS.NULL) | finds reciepts using last name/DL number combo |
-| [Hertz](https://www.hertz.com/rentacar/receipts/request-receipts.do) | finds reciepts using last name/DL number combo |
+| [Cartell.ie](https://www.cartell.ie/japanese-import/)| registry for japanese vehicles, shows import/ previous owners by VIN |
+| [Carvx.jp](https://carvx.jp/)| vehicle check by chasis number (Japan) |
+| [Vinpit.com](https://vinpit.com/vin-check/rv-motorhome)| RV/Motorhome VIN lookup |
+| [Cyclevin.com](https://cyclevin.com/)| VIN database more focused on stolen off and on road motorcycles/bikes |
+| [ATVStyle.com](https://www.atvstyle.com/atv-vin-check-free-atv-vin-decoder/)| VIN decoder for ATV |
 
 ### Map/Street View Tools
 | Link | Description |
@@ -124,6 +131,16 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [BGToll](https://check.bgtoll.bg/#/) | vignette check for EU, Russia, and Asia and Middle East |
 | [PaperswithCode](https://paperswithcode.com/datasets?q=license+plates&v=lst&o=match&mod=images&page=1) | international license plate datasets with collections of images |
 | [NMVTIS](https://vehiclehistory.bja.ojp.gov/nmvtis_vehiclehistory#w7o24a) | NMVTIS approved data providers |
+| [DL # Calculator](http://www.highprogrammer.com/cgi-bin/uniqueid/dl_fl) | calculates DL numbers in 9 states based on first/MI/last, gender, and DOB based on the states method of DL # calculation. |
+| [Enterprise](https://www.enterprise.com/en/reserve/receipts.html?icid=header.reservations.car.rental-_-receipt-_-ENUS.NULL) | finds reciepts using last name/DL number combo |
+| [Hertz](https://www.hertz.com/rentacar/receipts/request-receipts.do) | finds reciepts using last name/DL number combo |
+| [FMCSA.gov](https://www.fmcsa.dot.gov/safety/passenger-safety/search-results/by-company)| Passenger carrier search by comapany/vehicle |
+| [FindFreightLoads.com](https://findfreightloads.com/truck-drivers/find)| Commerical driver/load regsitry with list of available drivers and loads (contact info with registered account) |
+| [FMCSA.gov](https://safer.fmcsa.dot.gov/CompanySnapshot.aspx)| can search company safety records by USDOT number, MC/Mx Number, or company name |
+| [ATVTrader.com](https://www.atvtrader.com/ATVs-by-Make/atvs-for-sale?vrsn=links&format=make)| database of over 1,000,000 ATV's for sale with pictures |
+| [AutoEvolution.com](https://www.autoevolution.com/moto/)| ATV/Motorcycle timeline by manufacturer with pictures all brand associated models (other vehicle timelines as well) |
+| [MXSouth.com](https://www.mxsouth.com/atv/brands.htm)| All known ATV manufacturers/accessory brands |
+| [NHTSA.gov](https://www.nhtsa.gov/importing-vehicle/registered-importers)| All registerd US vehicle importers |
 
 ### Additional Resources/Notes
 - Local police impound registries (county, state, or province)
