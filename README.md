@@ -140,7 +140,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [ATVTrader.com](https://www.atvtrader.com/ATVs-by-Make/atvs-for-sale?vrsn=links&format=make)| database of over 1,000,000 ATV's for sale with pictures |
 | [AutoEvolution.com](https://www.autoevolution.com/moto/)| ATV/Motorcycle timeline by manufacturer with pictures all brand associated models (other vehicle timelines as well) |
 | [MXSouth.com](https://www.mxsouth.com/atv/brands.htm)| All known ATV manufacturers/accessory brands |
-| [NHTSA.gov](https://www.nhtsa.gov/importing-vehicle/registered-importers)| All registerd US vehicle importers |
+| [NHTSA.gov](https://www.nhtsa.gov/importing-vehicle/registered-importers)| All registered US vehicle importers |
 
 ### Additional Resources/Notes
 - Local police impound registries (county, state, or province)
