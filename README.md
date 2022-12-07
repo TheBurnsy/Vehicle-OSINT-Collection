@@ -74,6 +74,18 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [AuthorandBookinfo.com](http://www.authorandbookinfo.com/kingkong/where/dz.htm) | list of Algeria license plate area codes |
 | [Cardotcheck.co.uk](https://cardotcheck.co.uk/car-Import-check)| UK import search by registration number/license plate |
 | [Freecarcheck.co.uk](https://www.freecarcheck.co.uk/import-export-checks/)| UK import search by registration number/license plate |
+|[vvo.at](https://www.vvo.at/vvo/vvo.nsf/sysPages/versichererauskunft.html)| Austria plate search (insurance verficiation and other info) |
+|[bzkbih.ba](https://www.bzkbih.ba/en/stream.php?kat=101&kat=101)| Bosnia plate search (insurance verficiation and other info) |
+|[huo.hr](https://huo.hr/hr/provjera-osiguranja)| Croatia insurance verification search by plate |
+|[ic.ckp.cz](https://ic.ckp.cz/ICwww/servlet?_page=searchSPZ&amp;lngID=2)| Czech Republic insurance verification by plate |
+|[dfim.dk](https://www.dfim.dk/garantifonde/garantifond-motorkoeretoejer/uheld-i-danmark/er-koeretoejet-forsikret/)| Denmark insurance verification by plate |
+|[vs.lkf.ee](https://vs.lkf.ee/pls/xlk/!sysadm.ic_insurance_cover_pkt.show_form?p_purpose=CLAIM&p_lang=ENG)| Estonia/RU/Iran insurance verification by plate/vin/date of interest/accident |
+|[claimsic.fi](https://www.claimsic.fi/#!/search)| Finlad insurance verification (must include victim vehicle info) |
+|[services.ltab.lv](https://services.ltab.lv/lv/RespInsurer)| Latvia insurance verification |
+|[cab.lt](https://www.cab.lt/draustumo-patikra)| Lithuania insurance verification |
+|[ufg.pl](https://www.ufg.pl/infoportal/faces/pages_home-page/Page_4d98135c_14e2b8ace27__7ff1/Pagee0e22f3_14efe6adc05__7ff1/Page4d024e07_14f0a824115__7ff6?_afrLoop=5843720732967066&amp%3B_afrWindowMode=0&amp%3B_adf.ctrl-state=uqbl5vp5w_50&_afrWindowMode=0&_adf.ctrl-state=erlmwsizz_4)| Poland insurance verification by plate |
+|[raz.zav](https://raz.zav-zdruzenje.si/euinfocenter/Search.aspx)| Slovania insurance verification |
+|[tff.se](https://www.tff.se/en/For-insurance-companies/Insurance-check/)| Swedan insurance verification by plate |
 
 ### VIN Tools
 | Link | Description |
@@ -120,6 +132,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [Bureau of Transportation](https://www.bts.gov/product/geospatial-application-and-map-gallery) | Bureau of Transportation public maps |
 | [Transport for London](https://tfl.gov.uk/maps/bus) | London bus map |
 | [TransitMap](https://transitmap.net/) | current and past international transit map archives |
+[Indonesia Region Code Map](https://www.reddit.com/r/indonesia/comments/22hzde/map_of_vehicle_registration_codes_of_indonesia/)| map of Indonesian region codes (map is older, but accurate as of Dec 2022) |
 
 ### Other Useful Tools
 | Link | Description |
@@ -141,6 +154,8 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [AutoEvolution.com](https://www.autoevolution.com/moto/)| ATV/Motorcycle timeline by manufacturer with pictures all brand associated models (other vehicle timelines as well) |
 | [MXSouth.com](https://www.mxsouth.com/atv/brands.htm)| All known ATV manufacturers/accessory brands |
 | [NHTSA.gov](https://www.nhtsa.gov/importing-vehicle/registered-importers)| All registered US vehicle importers |
+| [Wulling.id](https://wuling.id/en/blog/lifestyle/indonesian-vehicle-registration-plates#) | Article on indonesian license plate information including region codes and plate types |
+| [Turizm.net](https://www.turizm.net/turkey/citycodesofturkey.html) | City codes for Turkish number plates |
 
 ### Additional Resources/Notes
 - Local police impound registries (county, state, or province)
@@ -150,3 +165,4 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 - For additional tools, [cipher387](https://github.com/cipher387) has an incredible collection of 1000+ tools [here](https://github.com/cipher387/osint_stuff_tool_collection)
 - Some map services ([Bing](https://www.bing.com/maps/), [Google](https://www.google.com/maps)) and [Google Earth](https://earth.google.com/) offer timeline revert features to view older streetview versions
 - CyberopsIntel's [article](https://www.cyberoneintel.com/post/back-to-the-basics-with-asset-tracing) on semi-truck OSINT
+- Playing [geoguessr](geoguessr.com) is a great way to practice geolocating and better your skills.
