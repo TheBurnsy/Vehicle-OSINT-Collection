@@ -86,6 +86,8 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 |[ufg.pl](https://www.ufg.pl/infoportal/faces/pages_home-page/Page_4d98135c_14e2b8ace27__7ff1/Pagee0e22f3_14efe6adc05__7ff1/Page4d024e07_14f0a824115__7ff6?_afrLoop=5843720732967066&amp%3B_afrWindowMode=0&amp%3B_adf.ctrl-state=uqbl5vp5w_50&_afrWindowMode=0&_adf.ctrl-state=erlmwsizz_4)| Poland insurance verification by plate |
 |[raz.zav](https://raz.zav-zdruzenje.si/euinfocenter/Search.aspx)| Slovania insurance verification |
 |[tff.se](https://www.tff.se/en/For-insurance-companies/Insurance-check/)| Swedan insurance verification by plate |
+| [Wulling.id](https://wuling.id/en/blog/lifestyle/indonesian-vehicle-registration-plates#) | Article on indonesian license plate information including region codes and plate types |
+| [Turizm.net](https://www.turizm.net/turkey/citycodesofturkey.html) | City codes for Turkish number plates |
 
 ### VIN Tools
 | Link | Description |
@@ -133,6 +135,8 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [Transport for London](https://tfl.gov.uk/maps/bus) | London bus map |
 | [TransitMap](https://transitmap.net/) | current and past international transit map archives |
 [Indonesia Region Code Map](https://www.reddit.com/r/indonesia/comments/22hzde/map_of_vehicle_registration_codes_of_indonesia/)| map of Indonesian region codes (map is older, but accurate as of Dec 2022) |
+|[allstays.com](https://www.allstays.com/c/truck-stop-locations.htm)| Truck stop map of North America |
+|[Driverwyze.com](https://drivewyze.com/coverage-map/)| Weigh Station Bypass Coverage Map for North America (lists all weigh stations and their current operational conditions) |
 
 ### Other Useful Tools
 | Link | Description |
@@ -154,8 +158,11 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [AutoEvolution.com](https://www.autoevolution.com/moto/)| ATV/Motorcycle timeline by manufacturer with pictures all brand associated models (other vehicle timelines as well) |
 | [MXSouth.com](https://www.mxsouth.com/atv/brands.htm)| All known ATV manufacturers/accessory brands |
 | [NHTSA.gov](https://www.nhtsa.gov/importing-vehicle/registered-importers)| All registered US vehicle importers |
-| [Wulling.id](https://wuling.id/en/blog/lifestyle/indonesian-vehicle-registration-plates#) | Article on indonesian license plate information including region codes and plate types |
-| [Turizm.net](https://www.turizm.net/turkey/citycodesofturkey.html) | City codes for Turkish number plates |
+|[Biology junction](https://biologyjunction.com/library-of-tire-tread-patterns/)| Library of Tire Tread Patterns |
+|[Tire Review](https://www.tirereview.com/reading-tire-wear-patterns/#:~:text=Tire%20wear%20in%20the%20center,carry%20all%20of%20the%20load.&text=Tire%20wear%20on%20the%20edges,pressures%20are%20lower%20than%20specified.)| Article on how to spot details about a vehicles operation condition from tire tread wear. |
+|[CarLogos.com](https://www.carlogos.org/reviews/largest-tire-manufacturers.html)| Complete list of largest tire manufacturers in the world |
+|[List of Companies.com](https://www.listofcompaniesin.com/product-s/atv-tire.html)| List of ATV specific tire manufacturers |
+|[Thomasnet.com](https://www.thomasnet.com/products/trailer-hitches-96117700-1.html)| list of 113 known US hitch trailer manufacturers |
 
 ### Additional Resources/Notes
 - Local police impound registries (county, state, or province)
