@@ -88,6 +88,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 |[tff.se](https://www.tff.se/en/For-insurance-companies/Insurance-check/)| Swedan insurance verification by plate |
 | [Wulling.id](https://wuling.id/en/blog/lifestyle/indonesian-vehicle-registration-plates#) | Article on indonesian license plate information including region codes and plate types |
 | [Turizm.net](https://www.turizm.net/turkey/citycodesofturkey.html) | City codes for Turkish number plates |
+| [aida.info](https://www.aida.info.ro/polite-rca) | Romania insurance verification by license plate or VIN number |
 
 ### VIN Tools
 | Link | Description |
@@ -116,6 +117,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [Vinpit.com](https://vinpit.com/vin-check/rv-motorhome)| RV/Motorhome VIN lookup |
 | [Cyclevin.com](https://cyclevin.com/)| VIN database more focused on stolen off and on road motorcycles/bikes |
 | [ATVStyle.com](https://www.atvstyle.com/atv-vin-check-free-atv-vin-decoder/)| VIN decoder for ATV |
+| [pro.rarom.ro](https://pro.rarom.ro/istoric_vehicul/dosar_vehicul.aspx) | Romania vehicle history by VIN number |
 
 ### Map/Street View Tools
 | Link | Description |
