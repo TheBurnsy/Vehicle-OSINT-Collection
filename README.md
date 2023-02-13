@@ -89,6 +89,8 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [Wulling.id](https://wuling.id/en/blog/lifestyle/indonesian-vehicle-registration-plates#) | Article on indonesian license plate information including region codes and plate types |
 | [Turizm.net](https://www.turizm.net/turkey/citycodesofturkey.html) | City codes for Turkish number plates |
 | [aida.info](https://www.aida.info.ro/polite-rca) | Romania insurance verification by license plate or VIN number |
+|[Egypt.gov](https://traffic.moi.gov.eg/English/OurServices/InfoServices/InteriorMinisterDecision/Pages/license-plates-taxes-traffic-fees.aspx)| Chart of license plate specifications based on vehicle type |
+
 
 ### VIN Tools
 | Link | Description |
@@ -139,6 +141,8 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 [Indonesia Region Code Map](https://www.reddit.com/r/indonesia/comments/22hzde/map_of_vehicle_registration_codes_of_indonesia/)| map of Indonesian region codes (map is older, but accurate as of Dec 2022) |
 |[allstays.com](https://www.allstays.com/c/truck-stop-locations.htm)| Truck stop map of North America |
 |[Driverwyze.com](https://drivewyze.com/coverage-map/)| Weigh Station Bypass Coverage Map for North America (lists all weigh stations and their current operational conditions) |
+|[Weatherbug](https://www.weatherbug.com/traffic-cam/)| live traffic camera/road condition map |
+|[Truck Parking Europe](https://app.truckparkingeurope.com/)| map of commercial truck parking in europe |
 
 ### Other Useful Tools
 | Link | Description |
@@ -165,6 +169,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 |[CarLogos.com](https://www.carlogos.org/reviews/largest-tire-manufacturers.html)| Complete list of largest tire manufacturers in the world |
 |[List of Companies.com](https://www.listofcompaniesin.com/product-s/atv-tire.html)| List of ATV specific tire manufacturers |
 |[Thomasnet.com](https://www.thomasnet.com/products/trailer-hitches-96117700-1.html)| list of 113 known US hitch trailer manufacturers |
+|[NHTSA](https://www.nhtsa.gov/recalls)| U.S Vehicle & equipment registry |
 
 ### Additional Resources/Notes
 - Local police impound registries (county, state, or province)
