@@ -121,7 +121,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [ATVStyle.com](https://www.atvstyle.com/atv-vin-check-free-atv-vin-decoder/)| VIN decoder for ATV |
 | [pro.rarom.ro](https://pro.rarom.ro/istoric_vehicul/dosar_vehicul.aspx) | Romania vehicle history by VIN number |
 
-### Map/Street View Tools
+### Map/Street View Tools/Streetcams
 | Link | Description |
 | --- | --- |
 | [Show My Street](https://showmystreet.com/) | simplifies google street view and maps with one straightforward interface |
@@ -179,4 +179,4 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 - For additional tools, [cipher387](https://github.com/cipher387) has an incredible collection of 1000+ tools [here](https://github.com/cipher387/osint_stuff_tool_collection)
 - Some map services ([Bing](https://www.bing.com/maps/), [Google](https://www.google.com/maps)) and [Google Earth](https://earth.google.com/) offer timeline revert features to view older streetview versions
 - CyberopsIntel's [article](https://www.cyberoneintel.com/post/back-to-the-basics-with-asset-tracing) on semi-truck OSINT
-- Playing [geoguessr](geoguessr.com) is a great way to practice geolocating and better your skills.
+- Playing [geoguessr](https://geoguessr.com) is a great way to practice geolocating and better your skills.
