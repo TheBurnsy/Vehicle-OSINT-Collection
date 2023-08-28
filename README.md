@@ -170,7 +170,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 |[CarLogos.com](https://www.carlogos.org/reviews/largest-tire-manufacturers.html)| Complete list of largest tire manufacturers in the world |
 |[List of Companies.com](https://www.listofcompaniesin.com/product-s/atv-tire.html)| List of ATV specific tire manufacturers |
 |[Thomasnet.com](https://www.thomasnet.com/products/trailer-hitches-96117700-1.html)| list of 113 known US hitch trailer manufacturers |
-|[NHTSA](https://www.nhtsa.gov/recalls)| U.S Vehicle & equipment registry |
+|[NHTSA](https://www.nhtsa.gov/recalls)| U.S Vehicle & equipment registry for safety issues/recalls by VIN |
 
 ### Additional Resources/Notes
 - Local police impound registries (county, state, or province)
