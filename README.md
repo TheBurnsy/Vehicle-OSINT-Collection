@@ -1,7 +1,7 @@
 # Vehicle OSINT Tool Collection
 A comprehensive list of websites, add-ons, repositories, and other tools useful for finding information on a target vehicle. 
 
-UPDATE Jan. 2024: Actively updating and adding to list, next update est. March 2024.
+UPDATE Jan. 2024: Actively updating and adding to list, next update est. Summer 2024. 
 
 ### Image Tools (Identifying Targets via Images/Videos)
 | Link | Description |
