@@ -171,6 +171,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 |[List of Companies.com](https://www.listofcompaniesin.com/product-s/atv-tire.html)| List of ATV specific tire manufacturers |
 |[Thomasnet.com](https://www.thomasnet.com/products/trailer-hitches-96117700-1.html)| list of 113 known US hitch trailer manufacturers |
 |[NHTSA](https://www.nhtsa.gov/recalls)| U.S Vehicle & equipment registry for safety issues/recalls by VIN |
+| [License Plate Lookup](https://licenseplatelookup.org) | Official Organization site to provide US vehicle history |
 
 ### Additional Resources/Notes
 - Local police impound registries (county, state, or province)
