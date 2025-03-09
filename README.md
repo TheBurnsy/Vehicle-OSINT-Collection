@@ -91,6 +91,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [Turizm.net](https://www.turizm.net/turkey/citycodesofturkey.html) | City codes for Turkish number plates |
 | [aida.info](https://www.aida.info.ro/polite-rca) | Romania insurance verification by license plate or VIN number |
 |[Egypt.gov](https://traffic.moi.gov.eg/English/OurServices/InfoServices/InteriorMinisterDecision/Pages/license-plates-taxes-traffic-fees.aspx)| Chart of license plate specifications based on vehicle type |
+[Carplates.app](https://ua.carplates.app/) search tool for ukrainian car plates or VIN numbers
 
 
 ### VIN Tools
