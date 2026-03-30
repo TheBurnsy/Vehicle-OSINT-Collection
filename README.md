@@ -20,6 +20,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 ### License Plate Tools
 | Link | Description |
 | --- | --- |
+| [License Plate Owner API](https://license-plate-owner.com/) | DPPA-compliant vehicle lookup API built by a licensed private investigator |
 | [vehicleRegistrationAPI](https://www.vehicleregistrationapi.com/) | search license plate via API (US, EU, Australia, India) |
 | [FindByPlate](https://findbyplate.com/) | search license plate information by number and state (US) |
 | [VehicleHistory.com Plate Search](https://www.vehiclehistory.com/license-plate-search) | search license plate information by number and state (US) |
