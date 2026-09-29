@@ -99,6 +99,7 @@ A comprehensive list of websites, add-ons, repositories, and other tools useful 
 | [FaxVin (Vin Search)](https://www.faxvin.com/) | finds information related to VIN number with VIN check and VIN decoder |
 | [VehicleHistory.com VIN Search](https://www.vehiclehistory.com/) | finds information and history related to VIN number |
 | [Vindecoderz](https://www.vindecoderz.com/) | free VIN decoder |
+| [CleanVins](https://www.cleanvins.com/) | free VIN decoder with NHTSA recall check; $9.99 NMVTIS vehicle history reports |
 | [Bimmwer.work](https://bimmer.work/) | bmw specific VIN decoder with full optional list
 | [Ford Vin Search](https://www.fordvinlookup.com/)| Ford VIN decoder |
 | [Chevrolet Vin Search](https://chevroletforum.com/forum/vindecoder.php)| Chevy VIN decoder |
